@@ -12,3 +12,12 @@
   box-shadow: 0 10px 0 red;
   user-select: none;
 }
+
+#btn:active {
+  opacity: 0.9;
+}
+
+#btn:active {
+  box-shadow: 0 10px 0 #d1483e;
+  margin-top: 35px;
+}
